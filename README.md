@@ -1,4 +1,4 @@
-# ADi_SSD1306I2C128x64.h
+# ADi_SSD1306I2C128x64
 Arduino OLED 128x64 px 0,96" SSD1306 I2C lib
 
 Это библиотека для монохромного 0,96" OLED дисплея с контроллером SSD1306 I2C.
