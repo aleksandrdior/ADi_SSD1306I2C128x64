@@ -1,0 +1,2 @@
+# ADi_SSD1306I2C128x64.h
+Arduino Oled 128x64 px 0,96" SSD1306 I2C lib
