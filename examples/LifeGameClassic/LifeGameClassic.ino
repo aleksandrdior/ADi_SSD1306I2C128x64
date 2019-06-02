@@ -13,6 +13,7 @@ void setup() {
   Wire.setClock(400000);
   oled.ledIni();
   oled.clear();
+  /* пульсар СР 48-56-72  */
   state[0][14][7] = 1;
   state[0][15][7] = 1;
   state[0][16][7] = 1;
